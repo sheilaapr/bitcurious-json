@@ -4,7 +4,7 @@
             "name": "Arduino Uno",
             "desc": "Arduino Uno adalah papan mikrokontroler open-source berbasis ATmega328P yang menjadi standar utama dalam dunia prototyping elektronik dan IoT. Dilengkapi dengan 14 pin digital I/O (6 di antaranya mendukung PWM), 6 input analog, osilator 16 MHz, port USB tipe B, serta tombol reset, board ini mampu menjalankan berbagai proyek elektronik dari tingkat dasar hingga lanjutan. Arduino Uno dapat diprogram melalui Arduino IDE menggunakan bahasa C/C++ yang telah disederhanakan. Platform ini juga memiliki kompatibilitas tinggi terhadap berbagai sensor, aktuator, dan shield tambahan. Karena kemudahan penggunaannya, dokumentasi luas, serta komunitas global yang aktif, Arduino Uno sering digunakan dalam bidang edukasi, riset, robotika, hingga prototipe industri.",
             "price": 150000,
-            "image": "https://bitcurious-json.vercel.app/https://bitcurious-json.vercel.app/assets/images/arduino_uno.png"
+            "image": "https://bitcurious-json.vercel.app/assets/images/arduino_uno.png"
         },
         {
             "name": "ESP32",
